@@ -1,0 +1,12 @@
+/MyBackupLoc
+/MyFullBackupLocMay2023
+/MyChangedDataFiles
+
+
+/AmysBackupLoc
+/AmysFullBackupLocMarch2023
+/AmysDataFiles
+
+
+
+
